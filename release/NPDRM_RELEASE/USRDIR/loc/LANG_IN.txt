@@ -5,20 +5,20 @@ STR_LANGDESC				{Pilih Bahasa}
 STR_DISABLE					{Mati}
 STR_ENABLE					{Hidup}
 STR_NO						{Tidak}
-STR_SYSTEM					{System}
+STR_SYSTEM					{Sistem}
 STR_SELECTOR				{Pilihan}
 STR_LV1PATCH				{LV1 Patch}
 STR_DTC						{DEX/CEX}
-STR_UTLS					{Utility}
-STR_EIDRK					{Apakah anda yakin untuk mendump eid root key dan reboot?\n\neid_root_key akan di simpan di /dev_hdd0/game/RBGTLBOX2/USRDIR}
+STR_UTLS					{Utilitas}
+STR_EIDRK					{Apakah anda yakin untuk men-dump eid root key dan reboot?\n\neid_root_key akan disimpan di /dev_hdd0/game/RBGTLBOX2/USRDIR}
 STR_SCRSHOT					{Simpan screenshot di}
 STR_DONE					{selesai!}
 STR_SHTDWN					{Mematikan...}
 STR_TRYRESTART				{Mencoba untuk merestart...}
 STR_NOTFOUND				{Tidak di temukan!}
 STR_PETBOOTINST				{Apakah anda mau menginstall Petitboot Di VFLASH/NAND Region 5?}
-STR_PETBOOTOK				{Petitboot Sudah di install. Enjoy OtherOS.}
-STR_PETBOOTERROR			{ERROR: Petitboot tidak di temukan.. VFLASH Detected.\n\nMasukan file bernama [dtbimage.ps3.bin] di USB device dan coba lagi.}
+STR_PETBOOTOK				{Petitboot Sudah di install. Nikmati OtherOS.}
+STR_PETBOOTERROR			{ERROR: Petitboot tidak di temukan.. VFLASH Terdeteksi.\n\nMasukan file bernama [dtbimage.ps3.bin] di USB device dan coba lagi.}
 STR_RESIZE5					{Apakah anda mau me-resize VFLASH/NAND Region 5 untuk Mengizinkan OtherOS?}
 STR_RESIZE5OK				{SUKSES: PS3 Anda Mebutuhkan restart untuk perubahan.}
 STR_RESIZE5ERROR			{GAGAL: resizing VFLASH/NAND Region 5 Tidak Selesai.}
@@ -26,37 +26,37 @@ STR_FLASHOK					{SUKSES: PS3 Anda Mebutuhkan restart untuk perubahan.}
 STR_FLASHERROR				{GAGAL!!!}
 STR_GAMEOSFLG				{Apakah anda mau menset GameOS boot flag?}
 STR_GAMEOSFLGOK				{Flag Sudah Terset.}
-STR_SYSINF					{System Informasi}
-STR_SYSINFDESC				{Informasi Display Tentang PS3™ system Anda.}
+STR_SYSINF					{Informasi Sistem}
+STR_SYSINFDESC				{Menampilkan informasi mengenai sistem PS3™ Anda.}
 STR_QUIT					{Keluar}
 STR_QUITDESC1				{Keluar}
 STR_QUITDESC2				{dan kembali ke XMB™}
 STR_RESTSYS					{Restart System}
 STR_RESTSYSDESC1			{Tutup}
-STR_RESTSYSDESC2			{dan restart PLAYSTATION® 3 system anda}
-STR_RESTSYS_SUB1			{Soft (Restart LV2 Saja)}
-STR_RESTSYS_SUB2			{Full (On/Off)}
+STR_RESTSYSDESC2			{dan restart sistem PLAYSTATION® 3 anda}
+STR_RESTSYS_SUB1			{Lembut (Restart LV2 Saja)}
+STR_RESTSYS_SUB2			{Penuh (Hidup/Mati)}
 STR_BOOTOOS					{Boot OtherOS}
 STR_BOOTOOSDESC				{Pilih LV1 Patch dan restart ke OtherOS}
 STR_BOOTOOS_SUB1			{Boot (LV1 patch: Terapkan Semua)}
 STR_BOOTOOS_SUB2			{Boot (LV1 patch: Gunakan saat ini)}
-STR_TRNOFF					{Matikan System}
-STR_TRNOFFDESC				{Matikan PLAYSTATION® 3 system}
-STR_QA						{Toggle QA Flag}
+STR_TRNOFF					{Matikan Sistem}
+STR_TRNOFFDESC				{Matikan sistem PLAYSTATION® 3}
+STR_QA						{Sakelar QA Flag}
 STR_QADESC					{Hidupkan atau Matikan fungsi QA flag.}
 STR_NOTAV					{Tidak tersedia}
-STR_TOGREC					{Toggle Recovery Mode}
-STR_TOGRECDESC				{Hidupkan Atau Matikan Recovery mode pada restart selanjutnya.}
-STR_TOGPM					{Toggle Product Mode}
-STR_TOGPMDESC				{Hidupkan atau matikan product mode(Factory Service Mode).}
+STR_TOGREC					{Sakelar Mode Pemulihan}
+STR_TOGRECDESC				{Hidupkan atau matikan Mode Pemulihan pada restart selanjutnya.}
+STR_TOGPM					{Toggle Mode Produk}
+STR_TOGPMDESC				{Hidupkan atau matikan Mode Produk (Mode Layanan Pabrik).}
 STR_LOADLV2					{Load LV2 Kernel}
 STR_LOADLV2DESC				{Load lv2_kernel.self.[KERNEL_NAME] Dari USB Atau /dev_hdd0.}
 STR_BUT						{penempatan tombol}
-STR_BUTDESC					{Set tombol mana yang mau di pakai untuk "Accept/Enter" dan "Batal/Kembali".}
-STR_CIRCLE					{Bulat(O) Adalah [Accept]}
-STR_CROSS					{Silang(X) Adalah [Accept]}
+STR_BUTDESC					{Set tombol mana yang mau di pakai untuk "Terima/Masuk" dan "Batal/Kembali".}
+STR_CIRCLE					{Bulat (O) adalah [Accept]}
+STR_CROSS					{Silang (X) adalah [Accept]}
 STR_XREG					{Backup/Restore xRegistry}
-STR_XREGDESC				{Backup atau Restore PS3 system settings dari USB.}
+STR_XREGDESC				{Backup atau pulihkan pengaturan sistem PS3 dari USB.}
 STR_BACKUP					{Backup}
 STR_RESTORE					{Restore}
 STR_RESIZEVFLASH			{Resize VFLASH/NAND Regions}
